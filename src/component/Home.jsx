@@ -10,8 +10,14 @@ const Home = () =>{
     return(
         <div className="home">
             <header className="header">
+                <div className="profile-details">
                 <h1>Sunny Sagar</h1>
-                <p>Full Stack Developer & Mobile App Developer</p>
+                <p>Software Developer</p>
+                </div>
+                
+                <div className="profile">
+                    <img src="/sunny.jpg" alt="sunny"/>
+                </div>
              </header>
             <About />
             <Skills />

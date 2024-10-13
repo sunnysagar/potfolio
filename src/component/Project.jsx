@@ -5,11 +5,11 @@ const Projects = () => (
   <div className="section projects">
     <h2>Projects</h2>
     <div className="project-item">
-      <h3>Project 1</h3>
+      <h3>Rentify - a property application</h3>
       <p>A description of your first project.</p>
     </div>
     <div className="project-item">
-      <h3>Project 2</h3>
+      <h3>Mental Health Care</h3>
       <p>A description of your second project.</p>
     </div>
   </div>
